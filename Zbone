@@ -1,6 +1,6 @@
 # Decompiled By RandiSr
-# Github : https://github.com/RANDIOLOY
-password ='maestro'
+# Github : https://github.com/ZboneValdosky
+password ='Zbone'
 import random
 import socket
 import threading
@@ -24,7 +24,7 @@ print("[@] Login Successful")
 time.sleep(5)
 
 os.system("clear")
-print ("Autor : Maestro ")
+print ("Autor : Zbone ")
 print("""\033[91m               
 ██╗░░██╗░█████╗░███╗░░██╗████████╗░█████╗░██╗░░░░░
 ██║░██╔╝██╔══██╗████╗░██║╚══██╔══╝██╔══██╗██║░░░░░
